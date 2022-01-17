@@ -51,4 +51,5 @@ Some more future aspects can be -
 - <u>Feature word generation</u> - To extract words that can predict future company growth, and use them for analyzing more transcripts.
 - Develop scoring algorithm to determine <u>when to buy/sell</u>.
 - <u>Identify all sub-entities and competitors</u> to cross-corelate the earnings and effect on other companies from the current company earning call.
+- Instead of using pre-trained models, we can use own transformers based models which can categorize more effectively and can be developed according to the specific business needs.
 
